@@ -1,0 +1,9 @@
+.logo{
+  max-width: 50px;
+}
+.primary-bg{
+  background-color: #4346e1;
+}
+.dropdown-item{
+  cursor: pointer;
+}
